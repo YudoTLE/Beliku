@@ -10,6 +10,6 @@ Projek basdat terindah beranggotakan:
 ## Set-Up Beliku
 
 1. Buat database bernama `beliku` pada postgresql.
-2. Copy dan paste query pada file `tabel.sql` dan `function.sql` pada folder `queryies` pada terminal psql.
+2. Copy dan paste query pada file `tabel.sql` dan `function.sql` pada folder `queries` pada terminal psql.
 3. Sesuaikan username dan password pada file `config.php`.
 4. Jalankan seperti yang diajarkan di praktikum.
